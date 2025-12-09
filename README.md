@@ -1,6 +1,6 @@
 <!-- JAPANESE WAVE HEADER -->
 <p align="center">
-  <img src="https://i.imgur.com/31yGg1G.gif" width="100%" alt="japanese-wave-banner"/>
+  <img src="https://data.ukiyo-e.org/bm/scaled/AN00694567_001_l.jpg" width="100%" alt="japanese-wave-banner"/>
 </p>
 
 <h1 align="center">✨ Hey, I'm <b>Jazz</b> ✨</h1>
