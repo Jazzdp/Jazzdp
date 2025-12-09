@@ -1,23 +1,23 @@
 <!-- JAPANESE WAVE HEADER -->
 <p align="center">
-  <img src="https://data.ukiyo-e.org/bm/scaled/AN00694567_001_l.jpg" width="100%" alt="japanese-wave-banner"/>
+  <img src="https://images.unsplash.com/photo-1687382130081-ebd36ecd38a9?q=80&w=1164&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="100%" alt="japanese-wave-banner"/>
 </p>
 
 <h1 align="center">✨ Hey, I'm <b>Jazz</b> ✨</h1>
-<h3 align="center">3rd Year Computer Science (ISIL) • Full-Stack Dev Learner • ML & Security Explorer</h3>
+<h3 align="center">3rd Year Computer Science (ISIL) • Full-Stack Dev • ML & Security Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=900&color=F742FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+(in+progress);Machine+Learning+Explorer;Cybersecurity+and+Networking+Student;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=900&color=F742FF&center=true&vCenter=true&width=600&lines=3rd+year+Compsci+student;Full-Stack+Web+Developer;Machine+Learning+Explore;Always+Learning+Something+New" />
 </p>
 
 ---
 
 ## 🈴 **About Me**
-- 🎓 3rd-year Computer Science student (ISIL track)
+- 🎓 3rd-year Computer Science student (ISIL)
 - 🌱 Focused on full-stack web dev with React & Spring Boot  
-- 🔐 Interested in cybersecurity, networking, digital forensics & ML  
-- 🎧 Music is life — always coding while listening  
-- 🎏 I love Japanese traditional patterns, Ukiyo-e waves, and aesthetics  
+- 🔐 Interested in cybersecurity and ML 
+- 🎧 Music enthusiast
+- 🎏 I love designing especially with tradintional Japanese inspirations 
 - 🧪 Currently learning: sockets • RPC • CORBA • distributed systems  
 
 ---
@@ -40,7 +40,7 @@
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,vite,bootstrap,figma,tailwind&theme=dark" />
 </p>
 
 ### 🏗 Backend
@@ -61,24 +61,21 @@
 ### 🕵️ Cybersecurity & Networking
 - 🛰 Wireshark  
 - 🐉 Kali Linux  
-- 🔥 Apache Tomcat  
-- ⚡ TCP/UDP Sockets  
-- 🔁 RPC  
-- 🧩 CORBA  
-- 🌐 Network analysis & low-level debugging  
+- 🔥 Apache Tomcat
+- ⚡ TCP/UDP Socket
 
 ---
 
-# 🎧 **Now Playing on Spotify**
+ <!-- # 🎧 **Now Playing on Spotify**
 <p align="center">
   <a href="https://open.spotify.com/user/317i2mfwnsy5zq5lmm3tkej2kqhq">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=317i2mfwnsy5zq5lmm3tkej2kqhq&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=ff4dd8&bar_color_cover=false" />
   </a>
 </p>
-
+-->
 ---
 
-# 📊 **GitHub Stats**
+ <!--# 📊 **GitHub Stats**
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Jazzdp&theme=tokyonight&background=000000" />
@@ -90,17 +87,17 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jazzdp&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
-# 🚀 Featured Projects
+ <!-- # 🚀 Featured Projects
 - 🛍 **Cosplay Store App** — React + Vite + persistent cart system  
 - 🔐 **Cyber Mini Tools** — Wireshark & kali-based experiments  
 - 🖧 **Networking Systems** — Sockets, RPC, CORBA implementations  
 - 🤖 **ML Notebook Experiments** — Jupyter + ML basics  
 - 💼 **Personal portfolio** (React)
-
+-->
 ---
 
 # 🌐 Connect With Me
@@ -111,9 +108,9 @@
 </p>
 
 ---
-
+<!--
 <p align="center">
   <img src="https://i.imgur.com/ynQDqU4.gif" width="80%" />
-</p>
+</p> -->
 
 <p align="center">🎏 Thanks for visiting! 🎏</p>
