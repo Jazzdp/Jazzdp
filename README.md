@@ -61,8 +61,8 @@
 ### 🕵️ Cybersecurity & Networking
 - 🛰 Wireshark  
 - 🐉 Kali Linux  
-- 🔥 Apache Tomcat
-- ⚡ TCP/UDP Socket
+- 🗳️ Docker 
+- ⚡ Socket Programing 
 
 ---
 
