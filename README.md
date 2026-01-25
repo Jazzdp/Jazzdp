@@ -73,7 +73,6 @@
   </a>
 </p>
 -->
----
 
  <!--# 📊 **GitHub Stats**
 
@@ -89,7 +88,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jazzdp&layout=compact&theme=tokyonight&hide_border=true" />
 </p> -->
 
----
 
  <!-- # 🚀 Featured Projects
 - 🛍 **Cosplay Store App** — React + Vite + persistent cart system  
@@ -98,7 +96,7 @@
 - 🤖 **ML Notebook Experiments** — Jupyter + ML basics  
 - 💼 **Personal portfolio** (React)
 -->
----
+
 
 # 🌐 Connect With Me
 <p>
