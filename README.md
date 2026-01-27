@@ -17,7 +17,6 @@
 - 🌱 Focused on full-stack web dev with React & Spring Boot  
 - 🔐 Interested in cybersecurity and ML 
 - 🎧 Music enthusiast
-- 🎏 I love designing especially with tradintional Japanese inspirations 
 - 🧪 Currently learning: sockets • RPC • CORBA • distributed systems  
 
 ---
@@ -100,9 +99,7 @@
 
 # 🌐 Connect With Me
 <p>
-  <a href="https://github.com/Jazzdp">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" />
-  </a>
+ Instagram : @Dprjazzz
 </p>
 
 ---
