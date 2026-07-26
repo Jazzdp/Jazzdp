@@ -99,7 +99,7 @@
 
 # 🌐 Connect With Me
 <p>
- Instagram : @Dprjazzz
+ Instagram : @Dprjazz
 </p>
 
 ---
