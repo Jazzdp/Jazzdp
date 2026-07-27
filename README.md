@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">✨ Hey, I'm <b>Jazz</b> ✨</h1>
-<h3 align="center">3rd Year Computer Science (ISIL) • Full-Stack Dev • ML & Security Explorer</h3>
+<h3 align="center">Master's Student in Computer Science • Full-Stack Dev • ML & Security Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=900&color=F742FF&center=true&vCenter=true&width=600&lines=3rd+year+Compsci+student;Full-Stack+Web+Developer;Machine+Learning+Explore;Always+Learning+Something+New" />
@@ -13,11 +13,10 @@
 ---
 
 ## 🈴 **About Me**
-- 🎓 3rd-year Computer Science student (ISIL)
-- 🌱 Focused on full-stack web dev with React & Spring Boot  
-- 🔐 Interested in cybersecurity and ML 
+- 🎓 4th-year Computer Science student, specialised in software engineering 
+- 🌱 Currently doing Cisco's ethical hacker course. 
+- 🔐 Interested in Software engineering and Red teaming
 - 🎧 Music enthusiast
-- 🧪 Currently learning: sockets • RPC • CORBA • distributed systems  
 
 ---
 
