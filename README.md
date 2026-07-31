@@ -4,10 +4,10 @@
 </p>
 
 <h1 align="center">✨ Hey, I'm <b>Jazz</b> ✨</h1>
-<h3 align="center">Master's Student in Computer Science • Full-Stack Dev • ML & Security Explorer</h3>
+<h3 align="center">Master's Student in Computer Science • Full-Stack Dev • Cyber Security Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=900&color=F742FF&center=true&vCenter=true&width=600&lines=3rd+year+Compsci+student;Full-Stack+Web+Developer;Machine+Learning+Explore;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=900&color=F742FF&center=true&vCenter=true&width=600&lines=4th+year+Compsci+student;Full-Stack+Web+Developer;Cyber+Security+Explorer;Always+Learning+Something+New" />
 </p>
 
 ---
