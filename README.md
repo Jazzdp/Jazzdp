@@ -13,7 +13,7 @@
 ---
 
 ## 🈴 **About Me**
-- 🎓 4th-year Computer Science student, specialised in software engineering 
+- 🎓 4th-year Computer Science student, specialised in networks and embedded systems
 - 🌱 Currently doing Cisco's ethical hacker course. 
 - 🔐 Interested in Software engineering and Red teaming
 - 🎧 Music enthusiast
