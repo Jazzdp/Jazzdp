@@ -14,8 +14,8 @@
 
 ## 🈴 **About Me**
 - 🎓 4th-year Computer Science student, specialised in networks and embedded systems
-- 🌱 Currently doing Cisco's ethical hacker course. 
-- 🔐 Interested in Software engineering and Red teaming
+- 🌱 Currently exploring port swigger academy labs. 
+- 🔐 Interested in Software engineering 
 - 🎧 Music enthusiast
 
 ---
@@ -57,10 +57,9 @@
 </p>
 
 ### 🕵️ Cybersecurity & Networking
-- 🛰 Wireshark  
-- 🐉 Kali Linux  
+- 🛰 Wireshark, burp, nmap, packet tracer 
+- 🐉 Debian Linux  
 - 🗳️ Docker 
-- ⚡ Socket Programing 
 
 ---
 
