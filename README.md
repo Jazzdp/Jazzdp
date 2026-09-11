@@ -27,10 +27,10 @@
 
 
 
-## 🛠️ Tech I Use
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,js,ts,php,html,css,matlab,react,vite,bootstrap,tailwind,figma,spring,nodejs,mysql,docker,linux,git,github,vscode,idea,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,js,ts,php,html,css,matlab,react,vite,bootstrap,tailwind,figma,spring,nodejs,mysql,docker,linux,git,github,vscode,idea&theme=dark" />
 </p>
 
 
