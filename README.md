@@ -21,9 +21,9 @@
 ## 🈴 About Me
 
 - 🎓 4th-year Computer Science student, specialised in networks and embedded systems
-- 🌱 Currently exploring PortSwigger Academy labs
-- 🔐 Interested in software engineering
-- 🎧 Music enthusiast
+- 🌱 Currently exploring entreprise network management throught Proxmox, Huawei ENsP and RHL
+- 🔐 Interested in Devops and DevSecops
+- 
 
 
 
