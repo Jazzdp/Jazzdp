@@ -23,6 +23,7 @@
 - 🎓 4th-year Computer Science student, specialised in networks and embedded systems
 - 🌱 Currently exploring entreprise network management throught Proxmox, Huawei ENsP and RHL
 - 🔐 Interested in Smart software engineering, Devops and DevSecops
+- 💻 Working on Sebuddy ( check repo )
 
 
 
